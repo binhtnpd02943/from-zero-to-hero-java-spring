@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-10-Anotaition-PostMapping-Anotaition
+ -ModelAttribute-thymeleaf
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: AnNV14
+Implementation-Vendor-Id: lgs.learning.spring
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://lgs.me/spring-boot-10-Anotaition-PostMappi
+ ng-Anotaition-ModelAttribute-thymeleaf/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: lgs.me
+

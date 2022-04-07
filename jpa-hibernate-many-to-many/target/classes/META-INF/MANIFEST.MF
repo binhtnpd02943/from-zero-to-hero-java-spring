@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: jpa-hibernate-many-to-many
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: AnNV14
+Implementation-Vendor-Id: lgs.learning.spring
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://lgs.me/jpa-hibernate-many-to-many/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: lgs.me
+

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: hibernate-and-hibernate-only
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: AnNV14
+Implementation-Vendor-Id: lgs.learning.spring
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://loda.me/hibernate-and-hibernate-only/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: loda.me
+

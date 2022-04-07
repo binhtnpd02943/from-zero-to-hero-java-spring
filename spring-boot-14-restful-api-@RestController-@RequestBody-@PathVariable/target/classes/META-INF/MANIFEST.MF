@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-14-restful-api-Anotaition-RestContro
+ ller
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: AnNV14
+Implementation-Vendor-Id: lgs.learning.spring
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://lgs.me/spring-boot-14-restful-api-Anotaiti
+ on-RestController/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: lgs.me
+
